@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Integration with Git Repo.md",
+                "file": "Obsidian/Obsidian Integration with Git Repo.md",
                 "mode": "source",
                 "source": false
               },
@@ -209,10 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "945b421f832e69d8",
+  "active": "94d986e5acf4cb8e",
   "lastOpenFiles": [
     "README.md",
-    "Obsidian Integration with Git Repo.md",
+    "Obsidian/Obsidian Integration with Git Repo.md",
     "Obsidian",
     "Untitled.canvas",
     "Brave/Brave backup path.md",
