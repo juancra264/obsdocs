@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brave/Brave backup path.md",
-                "mode": "source",
-                "source": false
+                "file": "README.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Brave backup path"
+              "title": "README"
             }
           }
         ]
@@ -196,9 +196,10 @@
   },
   "active": "9cc0f6024cd3f509",
   "lastOpenFiles": [
-    "boiler_docfile.md",
-    "README.md",
     "Untitled.canvas",
+    "README.md",
+    "Brave/Brave backup path.md",
+    "boiler_docfile.md",
     "linux/Kali/After installing.md",
     "linux/ufw.md",
     "Welcome.md"
