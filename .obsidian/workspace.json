@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
+          },
+          {
+            "id": "b0da1dcdd7bbbfbd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,6 +196,7 @@
   },
   "active": "db4d6f5b25801657",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "Welcome.md"
   ]
 }
