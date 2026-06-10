@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "netbox/netbox-docker plugins.md",
+                "file": "networking/Fortinet/Fortigate/Fortigate - Sessions reset.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "netbox-docker plugins"
+              "title": "Fortigate - Sessions reset"
             }
           }
         ],
@@ -209,8 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94d986e5acf4cb8e",
+  "active": "945b421f832e69d8",
   "lastOpenFiles": [
+    "netbox/netbox-docker plugins.md",
+    "networking/Fortinet/Fortigate/Fortigate - Sessions reset.md",
     "netbox/netbox-docker.md",
     "Obsidian/Obsidian Integration with Git Repo.md",
     "README.md",
