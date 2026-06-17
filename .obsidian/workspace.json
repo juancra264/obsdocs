@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 612.5
   },
   "right": {
     "id": "70bc35cb54086382",
@@ -194,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0bcc7c1cf059dc1e",
+  "active": "94d986e5acf4cb8e",
   "lastOpenFiles": [
     "networking/Fortinet/Fortigate/Fortigate - Sessions reset.md",
     "VoiceSystems/Poly/Poly CCX 505 - From Microsoft Teams mode into a standard, open SIP phone..md",
