@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9cc0f6024cd3f509",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "945b421f832e69d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "networking/Fortinet/Fortigate/Fortigate - Sessions reset.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fortigate - Sessions reset"
-            }
-          },
-          {
             "id": "0bcc7c1cf059dc1e",
             "type": "leaf",
             "state": {
@@ -49,8 +21,7 @@
               "title": "Poly CCX 505 - From Microsoft Teams mode into a standard, open SIP phone."
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,15 +196,15 @@
   },
   "active": "0bcc7c1cf059dc1e",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "VoiceSystems/Poly/Poly CCX 505 - From Microsoft Teams mode into a standard, open SIP phone..md",
     "networking/Fortinet/Fortigate/Fortigate - Sessions reset.md",
+    "VoiceSystems/Poly/Poly CCX 505 - From Microsoft Teams mode into a standard, open SIP phone..md",
+    "README.md",
+    "Untitled.canvas",
     "VoiceSystems/Poly",
     "VoiceSystems",
     "netbox/netbox-docker plugins.md",
     "netbox/netbox-docker.md",
     "Obsidian/Obsidian Integration with Git Repo.md",
-    "README.md",
     "Obsidian",
     "Brave/Brave backup path.md",
     "boiler_docfile.md",
