@@ -35,7 +35,8 @@
               "title": "ESP32-C5 Wifi6 Module"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ESP32/Walter/Walter Module v1.6.md",
+                "file": "ESP32/ESP32-C5/ESP32-C5 Wifi6 Module.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Walter Module v1.6"
+              "title": "Outline of ESP32-C5 Wifi6 Module"
             }
           },
           {
@@ -208,10 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8bf17c7ad381fd8e",
+  "active": "9ba5fc47626eb112",
   "lastOpenFiles": [
-    "ESP32/ESP32-C5/ESP32-C5 Wifi6 Module.md",
     "ESP32/Walter/Walter Module v1.6.md",
+    "ESP32/ESP32-C5/ESP32-C5 Wifi6 Module.md",
     "ESP32/Walter/Pasted image 20260704150856.png",
     "ESP32/Walter",
     "ESP32/ESP32-C5/Pasted image 20260704130431.png",
