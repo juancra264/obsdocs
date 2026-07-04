@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "ESP32/ESP32-C5/ESP32-C5 Wifi6 Module.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of ESP32-C5 Wifi6 Module"
             }
           },
           {
@@ -194,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94d986e5acf4cb8e",
+  "active": "b0da1dcdd7bbbfbd",
   "lastOpenFiles": [
     "ESP32/ESP32-C5/Pasted image 20260704130431.png",
     "ESP32/ESP32-C5/Pasted image 20260704130308.png",
