@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0bcc7c1cf059dc1e",
+            "id": "8bf17c7ad381fd8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VoiceSystems/Poly/Poly CCX 505 - From Microsoft Teams mode into a standard, open SIP phone..md",
+                "file": "ESP32/ESP32-C5/ESP32-C5 Wifi6 Module.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Poly CCX 505 - From Microsoft Teams mode into a standard, open SIP phone."
+              "title": "ESP32-C5 Wifi6 Module"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5
+    "width": 351.5
   },
   "right": {
     "id": "70bc35cb54086382",
@@ -196,8 +196,15 @@
   },
   "active": "94d986e5acf4cb8e",
   "lastOpenFiles": [
-    "networking/Fortinet/Fortigate/Fortigate - Sessions reset.md",
+    "ESP32/ESP32-C5/Pasted image 20260704130431.png",
+    "ESP32/ESP32-C5/Pasted image 20260704130308.png",
+    "ESP32/ESP32-C5/Pasted image 20260704130221.png",
+    "ESP32/ESP32-C5/Pasted image 20260704130122.png",
     "VoiceSystems/Poly/Poly CCX 505 - From Microsoft Teams mode into a standard, open SIP phone..md",
+    "ESP32/ESP32-C5/ESP32-C5 Wifi6 Module.md",
+    "ESP32/ESP32-C5",
+    "ESP32",
+    "networking/Fortinet/Fortigate/Fortigate - Sessions reset.md",
     "README.md",
     "Untitled.canvas",
     "VoiceSystems/Poly",
