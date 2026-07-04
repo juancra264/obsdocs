@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "ESP32-C5 Wifi6 Module"
             }
+          },
+          {
+            "id": "8370d8130b03045c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ESP32/Walter/Untitled.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ESP32/ESP32-C5/ESP32-C5 Wifi6 Module.md",
+                "file": "ESP32/Walter/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ESP32-C5 Wifi6 Module"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -194,14 +209,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8bf17c7ad381fd8e",
+  "active": "94d986e5acf4cb8e",
   "lastOpenFiles": [
+    "ESP32/ESP32-C5/ESP32-C5 Wifi6 Module.md",
+    "ESP32/Walter/Untitled.md",
+    "ESP32/Walter",
     "ESP32/ESP32-C5/Pasted image 20260704130431.png",
     "ESP32/ESP32-C5/Pasted image 20260704130308.png",
     "ESP32/ESP32-C5/Pasted image 20260704130221.png",
     "ESP32/ESP32-C5/Pasted image 20260704130122.png",
     "VoiceSystems/Poly/Poly CCX 505 - From Microsoft Teams mode into a standard, open SIP phone..md",
-    "ESP32/ESP32-C5/ESP32-C5 Wifi6 Module.md",
     "ESP32/ESP32-C5",
     "ESP32",
     "networking/Fortinet/Fortigate/Fortigate - Sessions reset.md",
