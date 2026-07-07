@@ -14,8 +14,13 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/community-scripts/Proxmo
 ```
 
 ## Install the SSL certificate for Web GUI.
-For 
+For Custome Certificate:
 PVE node -> System -> Certificates and then Upload Cert.
+
+For Let's Encrypt check online the instructions.
+
+## Install disks addional storage or disk as ZFS discs or RAIDs.
+PVE node -> Disks -> ZFS then create as needed.
 
 ##  Create a Admin user for OS and PVE webapp
 
