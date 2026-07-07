@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "proxmox/00_Things to do after Proxmox installation.md",
+                "file": "proxmox/Get_temperature.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "00_Things to do after Proxmox installation"
+              "title": "Get_temperature"
             }
           },
           {
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "right": {
     "id": "70bc35cb54086382",
@@ -211,8 +210,8 @@
   },
   "active": "8bf17c7ad381fd8e",
   "lastOpenFiles": [
-    "proxmox/adding_shell_user.md",
     "proxmox/00_Things to do after Proxmox installation.md",
+    "proxmox/adding_shell_user.md",
     "proxmox/ubuntu_server_template.md",
     "proxmox/installing_qemu_guest_agent.md",
     "proxmox/Get_temperature.md",
