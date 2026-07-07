@@ -62,14 +62,16 @@ Datecenter -> Permissions -> Two Factor
 
 Switch your CLI administration over to SSH keys. 
 ```bash
-/etc/ssh/sshd_config 
+vim /etc/ssh/sshd_config 
 ```
 ensure 
 ```bash
 PasswordAuthentication no
 ```
 is set, and restart the SSH service.
-
+```bash
+sudo systemctl restart ssh
+```
 
 
 
