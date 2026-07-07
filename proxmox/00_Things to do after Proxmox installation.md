@@ -41,7 +41,7 @@ options zfs zfs_arc_max=8589934592
 As root, create user, assign password
 ```bash
 apt install sudo
-useradd -s /bin/bash -G sudo {user_name}
+useradd -m -s /bin/bash -G sudo {user_name}
 passwd {user_name}
 ```
 
