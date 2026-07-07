@@ -62,9 +62,21 @@ pve1.domain.local
 
 ### Setup SMART monitoring for disks
 
-```
+```bash
 smartctl -a /dev/sda
 ```
-### Create the first linux VM and create a Template
 
-Check how to create a template.
+
+### Create a Admin user for OS and PVE webapp
+
+As root, create user, assign password
+```bash
+apt install sudo
+useradd -s /bin/bash -G sudo {user_name}
+passwd {user_name}
+```
+
+Create Admins Group in PVE GUI 
+Datecenter -> Permissions -> Groups
+
+Create 
