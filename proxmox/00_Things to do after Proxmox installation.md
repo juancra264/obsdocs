@@ -1,5 +1,49 @@
 # Thing to do after installing proxmox
 
+## Update the system OS 
+```bash
+apt update 
+apt dist-upgrade
+apt autoremove
+```
+
+## Run the post install help script using GUI Shell
+
+```bash
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/community-scripts/ProxmoxVE/main/tools/pve/post-pve-install.sh)"
+```
+
+## Install the SSL certificate for Web GUI.
+For 
+PVE node -> System -> Certificates and then Upload Cert.
+
+##  Create a Admin user for OS and PVE webapp
+
+As root, create user, assign password
+```bash
+apt install sudo
+useradd -s /bin/bash -G sudo {user_name}
+passwd {user_name}
+```
+
+Create User in PVE GUI
+Datecenter -> Permissions -> User, Then create a PAM user.
+
+Create Admins Group in PVE GUI 
+Datecenter -> Permissions -> Groups
+
+Create Permission for that Group
+Datecenter -> Permissions
+	Path / and role Administrator
+
+Assign MFA (two Factor Authenticator)
+Datecenter -> Permissions -> Two Factor 
+
+
+
+
+
+
 ### Switch Repository to Non-Production Version
 
 ```
@@ -38,7 +82,7 @@ nano /etc/apt/sources.list.d/ceph.list
 
 - Select your server.
 - Go to “Network” in the menu.
-- Select the Linux bridge (vmbro#).
+- Select the Linux bridge (vmbpro#).
 - Click “Edit” at the top of the window.
 - Check the box that says “VLAN aware.”
 - Press “OK.”
@@ -67,16 +111,3 @@ smartctl -a /dev/sda
 ```
 
 
-### Create a Admin user for OS and PVE webapp
-
-As root, create user, assign password
-```bash
-apt install sudo
-useradd -s /bin/bash -G sudo {user_name}
-passwd {user_name}
-```
-
-Create Admins Group in PVE GUI 
-Datecenter -> Permissions -> Groups
-
-Create 
