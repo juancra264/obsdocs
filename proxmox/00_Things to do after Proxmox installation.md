@@ -22,6 +22,20 @@ For Let's Encrypt check online the instructions.
 ## Install disks addional storage or disk as ZFS discs or RAIDs.
 PVE node -> Disks -> ZFS then create as needed.
 
+Configure ZFS ARC Limits (If using ZFS):
+By default, ZFS can consume up to 50% of your system RAM for its read cache (ARC). If you have a low-RAM or medium-RAM system, limit this so your VMs don't run out of memory. 
+
+Edit 
+```bash
+vim /etc/modprobe.d/zfs.conf
+```
+
+and add (for example, to limit ARC to 8GB):
+```bash
+options zfs zfs_arc_max=8589934592
+```
+
+
 ##  Create a Admin user for OS and PVE webapp
 
 As root, create user, assign password
@@ -41,8 +55,42 @@ Create Permission for that Group
 Datecenter -> Permissions
 	Path / and role Administrator
 
-Assign MFA (two Factor Authenticator)
+Assign MFA (two Factor Authenticator) (for admin and root)
 Datecenter -> Permissions -> Two Factor 
+
+## Disable SSH Password Auth
+
+Switch your CLI administration over to SSH keys. 
+```bash
+/etc/ssh/sshd_config 
+```
+ensure 
+```bash
+PasswordAuthentication no
+```
+is set, and restart the SSH service.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
