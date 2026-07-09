@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ESP32/ESP32-C5/ESP32-C5 Wifi6 Module.md",
+                "file": "ESP32/ESP-IDF/ESP-IDF CLI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ESP32-C5 Wifi6 Module"
+              "title": "ESP-IDF CLI"
             }
           },
           {
@@ -210,6 +210,9 @@
   },
   "active": "8bf17c7ad381fd8e",
   "lastOpenFiles": [
+    "ESP32/ESP32-C5/ESP32-C5 Wifi6 Module.md",
+    "ESP32/ESP-IDF/ESP-IDF CLI.md",
+    "ESP32/ESP-IDF",
     "proxmox/Get_temperature.md",
     "proxmox/00_Things to do after Proxmox installation.md",
     "proxmox/adding_shell_user.md",
@@ -217,7 +220,6 @@
     "proxmox/installing_qemu_guest_agent.md",
     "docker/docker - Check volumen usage CLI.md",
     "ESP32/Walter/Walter Module v1.6.md",
-    "ESP32/ESP32-C5/ESP32-C5 Wifi6 Module.md",
     "ESP32/Walter/Pasted image 20260704150856.png",
     "ESP32/Walter",
     "ESP32/ESP32-C5/Pasted image 20260704130431.png",
