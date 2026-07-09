@@ -53,6 +53,11 @@ Opens serial monitor
 idf.py -p <PORT> monitor
 ```
 
+Combines flashing and monitoring
+```
+idf.py -p <PORT> flash monitor
+```
+
 
 ## Additional Commands
 
