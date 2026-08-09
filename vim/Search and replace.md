@@ -1,5 +1,5 @@
 search command
-/
+`/`
 
 look for next occurrence 
 n
