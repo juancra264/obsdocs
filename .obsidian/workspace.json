@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "networking/Fortinet/Fortigate/Fortigate - Sessions reset.md",
+                "file": "linux/LVM.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Fortigate - Sessions reset"
+              "title": "LVM"
             }
           }
         ]
@@ -196,6 +196,8 @@
   },
   "active": "d8abb1a9f657f7c4",
   "lastOpenFiles": [
+    "vim/Search and replace.md",
+    "networking/Fortinet/Fortigate/Fortigate - Sessions reset.md",
     "ESP32/ESP-IDF/ESP-IDF CLI (IDF frontend).md",
     "ESP32/ESP32-C5/ESP32-C5 Wifi6 Module.md",
     "ESP32/ESP-IDF",
@@ -215,7 +217,6 @@
     "VoiceSystems/Poly/Poly CCX 505 - From Microsoft Teams mode into a standard, open SIP phone..md",
     "ESP32/ESP32-C5",
     "ESP32",
-    "networking/Fortinet/Fortigate/Fortigate - Sessions reset.md",
     "README.md",
     "Untitled.canvas",
     "VoiceSystems/Poly",
