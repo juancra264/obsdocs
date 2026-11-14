@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1e0a3a76f62b9dd6",
+        "id": "e4e21591173f0583",
         "type": "tabs",
         "children": [
           {
-            "id": "d8abb1a9f657f7c4",
+            "id": "5300a4026364df22",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "linux/LVM.md",
-                "mode": "preview",
-                "source": true
+                "file": "ERU_AI_Arch.excalidraw"
               },
-              "icon": "lucide-file",
-              "title": "LVM"
+              "icon": "excalidraw-icon",
+              "title": "ERU_AI_Arch"
             }
           }
         ]
@@ -41,7 +39,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -156,31 +156,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/docker - Check volumen usage CLI.md",
+                "file": "ERU_AI_Arch.excalidraw",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of docker - Check volumen usage CLI"
-            }
-          },
-          {
-            "id": "b0da1dcdd7bbbfbd",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,15 +182,29 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d8abb1a9f657f7c4",
+  "active": "5300a4026364df22",
   "lastOpenFiles": [
+    "ESP32/ESP32-C5/ESP32-C5 Wifi6 Module.md",
+    "ESP32/ESP-IDF/ESP-IDF CLI (IDF frontend).md",
+    "Pasted image 20260704130221.png.md",
+    "Pasted image 20260704150856.png.md",
+    "linux/LVM.md",
+    "ERU_AI_Arch.excalidraw",
+    "ERU_NMP_Arch.excalidraw",
+    "ramdur_domohome.excalidraw",
+    "README.md",
+    "boiler_docfile.md",
+    "Untitled.canvas",
+    "test 11.14.26.md",
+    "Untitled.base",
+    "2026-11-14.md",
+    "Excalidraw/Drawing 2026-11-14 09.59.07.excalidraw.md",
+    "Excalidraw/Drawing 2026-11-14 09.58.22.excalidraw.md",
     "vim/Search and replace.md",
     "networking/Fortinet/Fortigate/Fortigate - Sessions reset.md",
-    "ESP32/ESP-IDF/ESP-IDF CLI (IDF frontend).md",
-    "ESP32/ESP32-C5/ESP32-C5 Wifi6 Module.md",
     "ESP32/ESP-IDF",
     "proxmox/Get_temperature.md",
     "proxmox/00_Things to do after Proxmox installation.md",
@@ -217,18 +222,12 @@
     "VoiceSystems/Poly/Poly CCX 505 - From Microsoft Teams mode into a standard, open SIP phone..md",
     "ESP32/ESP32-C5",
     "ESP32",
-    "README.md",
-    "Untitled.canvas",
     "VoiceSystems/Poly",
     "VoiceSystems",
     "netbox/netbox-docker plugins.md",
     "netbox/netbox-docker.md",
     "Obsidian/Obsidian Integration with Git Repo.md",
-    "Obsidian",
     "Brave/Brave backup path.md",
-    "boiler_docfile.md",
-    "linux/Kali/After installing.md",
-    "linux/ufw.md",
-    "Welcome.md"
+    "linux/Kali/After installing.md"
   ]
 }
