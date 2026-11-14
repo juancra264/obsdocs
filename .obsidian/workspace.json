@@ -11,10 +11,14 @@
             "id": "bfc70d50d3835338",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01_Inbox/test123.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "test123"
             }
           }
         ]
@@ -154,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Resources/Excalidraw/Drawing 2026-11-14 06.59.45.excalidraw.md",
+                "file": "01_Inbox/test123.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -183,24 +187,26 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "94d986e5acf4cb8e",
+  "active": "bfc70d50d3835338",
   "lastOpenFiles": [
+    "README.md",
+    "01_Inbox/test123.md",
+    "boiler_docfile.md",
+    "Untitled.md",
+    "ERU_AI_Arch.excalidraw",
+    "ERU_NMP_Arch.excalidraw",
+    "ramdur_domohome.excalidraw",
+    "02_Resources/Excalidraw/Drawing 2026-11-14 06.59.45.excalidraw.md",
     "02_Resources/Excalidraw/Drawing 2026-11-14 09.59.07.excalidraw.md",
     "02_Resources/Excalidraw/Drawing 2026-11-14 09.58.22.excalidraw.md",
     "02_Resources/Excalidraw/Drawing 2026-11-14 07.01.52.excalidraw.md",
-    "02_Resources/Excalidraw/Drawing 2026-11-14 06.59.45.excalidraw.md",
-    "boiler_docfile.md",
     "Pasted image 20260704150856.png.md",
     "Pasted image 20260704130221.png.md",
-    "ERU_AI_Arch.excalidraw",
     "02_Resources",
     "01_Inbox",
     "02_Resources/ESP32/ESP32-C5/ESP32-C5 Wifi6 Module.md",
     "02_Resources/ESP32/ESP-IDF/ESP-IDF CLI (IDF frontend).md",
     "02_Resources/linux/LVM.md",
-    "ERU_NMP_Arch.excalidraw",
-    "ramdur_domohome.excalidraw",
-    "README.md",
     "Untitled.canvas",
     "test 11.14.26.md",
     "Untitled.base",
@@ -224,8 +230,6 @@
     "02_Resources/VoiceSystems/Poly/Poly CCX 505 - From Microsoft Teams mode into a standard, open SIP phone..md",
     "02_Resources/ESP32/ESP32-C5",
     "02_Resources/ESP32",
-    "02_Resources/netbox/netbox-docker plugins.md",
-    "02_Resources/netbox/netbox-docker.md",
-    "02_Resources/Obsidian/Obsidian Integration with Git Repo.md"
+    "02_Resources/netbox/netbox-docker plugins.md"
   ]
 }
