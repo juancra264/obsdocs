@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e4e21591173f0583",
+        "id": "5dffd3bcab63c6da",
         "type": "tabs",
         "children": [
           {
-            "id": "5300a4026364df22",
+            "id": "bfc70d50d3835338",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "ERU_AI_Arch.excalidraw"
-              },
-              "icon": "excalidraw-icon",
-              "title": "ERU_AI_Arch"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -156,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ERU_AI_Arch.excalidraw",
+                "file": "02_Resources/Excalidraw/Drawing 2026-11-14 06.59.45.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,49 +183,49 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5300a4026364df22",
+  "active": "94d986e5acf4cb8e",
   "lastOpenFiles": [
-    "ESP32/ESP32-C5/ESP32-C5 Wifi6 Module.md",
-    "ESP32/ESP-IDF/ESP-IDF CLI (IDF frontend).md",
-    "Pasted image 20260704130221.png.md",
+    "02_Resources/Excalidraw/Drawing 2026-11-14 09.59.07.excalidraw.md",
+    "02_Resources/Excalidraw/Drawing 2026-11-14 09.58.22.excalidraw.md",
+    "02_Resources/Excalidraw/Drawing 2026-11-14 07.01.52.excalidraw.md",
+    "02_Resources/Excalidraw/Drawing 2026-11-14 06.59.45.excalidraw.md",
+    "boiler_docfile.md",
     "Pasted image 20260704150856.png.md",
-    "linux/LVM.md",
+    "Pasted image 20260704130221.png.md",
     "ERU_AI_Arch.excalidraw",
+    "02_Resources",
+    "01_Inbox",
+    "02_Resources/ESP32/ESP32-C5/ESP32-C5 Wifi6 Module.md",
+    "02_Resources/ESP32/ESP-IDF/ESP-IDF CLI (IDF frontend).md",
+    "02_Resources/linux/LVM.md",
     "ERU_NMP_Arch.excalidraw",
     "ramdur_domohome.excalidraw",
     "README.md",
-    "boiler_docfile.md",
     "Untitled.canvas",
     "test 11.14.26.md",
     "Untitled.base",
     "2026-11-14.md",
-    "Excalidraw/Drawing 2026-11-14 09.59.07.excalidraw.md",
-    "Excalidraw/Drawing 2026-11-14 09.58.22.excalidraw.md",
     "vim/Search and replace.md",
-    "networking/Fortinet/Fortigate/Fortigate - Sessions reset.md",
-    "ESP32/ESP-IDF",
-    "proxmox/Get_temperature.md",
-    "proxmox/00_Things to do after Proxmox installation.md",
-    "proxmox/adding_shell_user.md",
-    "proxmox/ubuntu_server_template.md",
-    "proxmox/installing_qemu_guest_agent.md",
-    "docker/docker - Check volumen usage CLI.md",
-    "ESP32/Walter/Walter Module v1.6.md",
+    "02_Resources/networking/Fortinet/Fortigate/Fortigate - Sessions reset.md",
+    "02_Resources/ESP32/ESP-IDF",
+    "02_Resources/proxmox/Get_temperature.md",
+    "02_Resources/proxmox/00_Things to do after Proxmox installation.md",
+    "02_Resources/proxmox/adding_shell_user.md",
+    "02_Resources/proxmox/ubuntu_server_template.md",
+    "02_Resources/proxmox/installing_qemu_guest_agent.md",
+    "02_Resources/docker/docker - Check volumen usage CLI.md",
+    "02_Resources/ESP32/Walter/Walter Module v1.6.md",
     "ESP32/Walter/Pasted image 20260704150856.png",
-    "ESP32/Walter",
+    "02_Resources/ESP32/Walter",
     "ESP32/ESP32-C5/Pasted image 20260704130431.png",
     "ESP32/ESP32-C5/Pasted image 20260704130308.png",
     "ESP32/ESP32-C5/Pasted image 20260704130221.png",
     "ESP32/ESP32-C5/Pasted image 20260704130122.png",
-    "VoiceSystems/Poly/Poly CCX 505 - From Microsoft Teams mode into a standard, open SIP phone..md",
-    "ESP32/ESP32-C5",
-    "ESP32",
-    "VoiceSystems/Poly",
-    "VoiceSystems",
-    "netbox/netbox-docker plugins.md",
-    "netbox/netbox-docker.md",
-    "Obsidian/Obsidian Integration with Git Repo.md",
-    "Brave/Brave backup path.md",
-    "linux/Kali/After installing.md"
+    "02_Resources/VoiceSystems/Poly/Poly CCX 505 - From Microsoft Teams mode into a standard, open SIP phone..md",
+    "02_Resources/ESP32/ESP32-C5",
+    "02_Resources/ESP32",
+    "02_Resources/netbox/netbox-docker plugins.md",
+    "02_Resources/netbox/netbox-docker.md",
+    "02_Resources/Obsidian/Obsidian Integration with Git Repo.md"
   ]
 }
