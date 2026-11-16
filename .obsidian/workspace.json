@@ -189,10 +189,11 @@
   },
   "active": "bfc70d50d3835338",
   "lastOpenFiles": [
+    "Untitled.md",
+    "01_Inbox/ia_arch.excalidraw.md",
     "README.md",
     "01_Inbox/test123.md",
     "boiler_docfile.md",
-    "Untitled.md",
     "ERU_AI_Arch.excalidraw",
     "ERU_NMP_Arch.excalidraw",
     "ramdur_domohome.excalidraw",
@@ -229,7 +230,6 @@
     "ESP32/ESP32-C5/Pasted image 20260704130122.png",
     "02_Resources/VoiceSystems/Poly/Poly CCX 505 - From Microsoft Teams mode into a standard, open SIP phone..md",
     "02_Resources/ESP32/ESP32-C5",
-    "02_Resources/ESP32",
-    "02_Resources/netbox/netbox-docker plugins.md"
+    "02_Resources/ESP32"
   ]
 }
