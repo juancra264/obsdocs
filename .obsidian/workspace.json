@@ -11,17 +11,35 @@
             "id": "bfc70d50d3835338",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "6573b464898e961b",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Inbox/test123.md",
+                "file": "02_Resources/linux/LazyVim.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "test123"
+              "title": "LazyVim"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,12 +205,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bfc70d50d3835338",
+  "active": "94d986e5acf4cb8e",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "02_Resources/linux/LazyVim.md",
+    "01_Inbox/IA.md",
+    "01_Inbox/test123.md",
     "Untitled.md",
     "01_Inbox/ia_arch.excalidraw.md",
     "README.md",
-    "01_Inbox/test123.md",
     "boiler_docfile.md",
     "ERU_AI_Arch.excalidraw",
     "ERU_NMP_Arch.excalidraw",
@@ -208,7 +229,6 @@
     "02_Resources/ESP32/ESP32-C5/ESP32-C5 Wifi6 Module.md",
     "02_Resources/ESP32/ESP-IDF/ESP-IDF CLI (IDF frontend).md",
     "02_Resources/linux/LVM.md",
-    "Untitled.canvas",
     "test 11.14.26.md",
     "Untitled.base",
     "2026-11-14.md",
@@ -220,15 +240,12 @@
     "02_Resources/proxmox/adding_shell_user.md",
     "02_Resources/proxmox/ubuntu_server_template.md",
     "02_Resources/proxmox/installing_qemu_guest_agent.md",
-    "02_Resources/docker/docker - Check volumen usage CLI.md",
-    "02_Resources/ESP32/Walter/Walter Module v1.6.md",
     "ESP32/Walter/Pasted image 20260704150856.png",
     "02_Resources/ESP32/Walter",
     "ESP32/ESP32-C5/Pasted image 20260704130431.png",
     "ESP32/ESP32-C5/Pasted image 20260704130308.png",
     "ESP32/ESP32-C5/Pasted image 20260704130221.png",
     "ESP32/ESP32-C5/Pasted image 20260704130122.png",
-    "02_Resources/VoiceSystems/Poly/Poly CCX 505 - From Microsoft Teams mode into a standard, open SIP phone..md",
     "02_Resources/ESP32/ESP32-C5",
     "02_Resources/ESP32"
   ]
